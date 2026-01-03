@@ -1,0 +1,21 @@
+# Chattera
+
+Chattera is a simple and modern chat-based application built using Firebase.
+The goal of this project is to provide a clean, fast, and real-time chatting experience.
+
+## Features
+- Real-time messaging
+- Firebase Authentication
+- Firebase Hosting support
+- Scalable and secure architecture
+
+## Tech Stack
+- Firebase
+- JavaScript
+- HTML & CSS
+
+## Status
+🚧 Project is under development.
+
+## Author
+Suraj Singh
